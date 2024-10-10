@@ -3,8 +3,8 @@
 
 **Authors:**
 - Chandrika Saha (Western University, Canada)
-- Sajal Saha (University of Northern British Columbia, Canada)
-- Anwar Haque (Western University, Canada)
+- Dr. Sajal Saha (University of Northern British Columbia, Canada)
+- Dr. Anwar Haque (Western University, Canada)
 
 ## Overview
 
