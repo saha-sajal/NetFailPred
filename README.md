@@ -37,7 +37,7 @@ The **synthetic dataset** contains records of various failure types (CPU, memory
 - **Risk factors**: Location, misconfiguration, OS upgrades, etc.
 - **Failure types**: Power supply, memory, CPU, card, port, link, and more.
 
-You can download the dataset [here](link-to-dataset).
+You can download the dataset [here](https://github.com/saha-sajal/NetFailPred/blob/main/100_nodes.csv).
 
 ## Methodology
 
