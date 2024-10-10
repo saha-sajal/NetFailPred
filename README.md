@@ -89,21 +89,6 @@ cd network-failure-prediction
 
 ```
 
-## Requirements
-
-- Python 3.x
-- Required packages:
-  - TensorFlow/Keras
-  - Scikit-learn
-  - Pandas
-  - NumPy
-  - Matplotlib
-
-You can install all dependencies using the following command:
-```bash
-pip install -r requirements.txt
-```
-
 ## Installation
 
 To set up the project locally:
@@ -111,10 +96,4 @@ To set up the project locally:
 2. Install the required dependencies.
 3. Run the provided scripts to simulate the traffic, generate the dataset, and train the models.
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
-## Acknowledgments
-
-We acknowledge the guidelines provided by **Cisco Press** and the assistance from **Western University** and **University of Northern British Columbia** in supporting this research.
