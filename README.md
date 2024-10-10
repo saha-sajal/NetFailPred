@@ -22,10 +22,7 @@ The project provides:
 - [Models](#models)
 - [Results](#results)
 - [How to Use](#how-to-use)
-- [Requirements](#requirements)
 - [Installation](#installation)
-- [License](#license)
-- [Acknowledgments](#acknowledgments)
 
 ## Introduction
 
@@ -80,14 +77,6 @@ Performance comparison across models (Accuracy, Precision, Recall, F1):
    - Training and testing the model
    - Hyperparameter tuning
    - Evaluation metrics (accuracy, precision, recall, F1-score)
-
-### Usage Instructions:
-```bash
-# Clone the repository
-git clone https://github.com/username/network-failure-prediction.git
-cd network-failure-prediction
-
-```
 
 ## Installation
 
