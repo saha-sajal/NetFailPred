@@ -87,13 +87,6 @@ Performance comparison across models (Accuracy, Precision, Recall, F1):
 git clone https://github.com/username/network-failure-prediction.git
 cd network-failure-prediction
 
-# Install dependencies
-pip install -r requirements.txt
-
-# Run the simulation and model training
-python run_simulation.py
-python run_ml_models.py
-python run_dnn_model.py
 ```
 
 ## Requirements
